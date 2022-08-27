@@ -1,4 +1,4 @@
-theDomain="staging.hugsintl.com"
+theDomain="ecs.verticaltechsolutions.com"
 
 
 # Build
